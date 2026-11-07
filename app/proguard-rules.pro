@@ -1,0 +1,4 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn kotlinx.**
+-keep class cn.ws9.daoyi.core.llm.** { *; }

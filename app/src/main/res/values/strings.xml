@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">道医 · 参同契</string>
+    <string name="disclaimer">自用研究工具 · 典籍整理，未经医师审校 · 非诊断、非处方、不构成医疗建议 · 请勿自行抓药，身体不适请线下就医</string>
+</resources>

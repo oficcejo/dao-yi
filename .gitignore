@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+.kotlin/
+.DS_Store
+local.properties
+.idea/
+build/
+app/build/
+dist/
+*.apk
+captures/
+.externalNativeBuild
+.cxx
+
+# 本地工作区记忆与助手配置，不进入公开仓库
+.workbuddy/

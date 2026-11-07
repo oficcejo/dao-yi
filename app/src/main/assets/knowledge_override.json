@@ -1,0 +1,4 @@
+{
+  "note": "可选扩展：在此追加或覆盖药材剂量表。字段 name/min/max/toxic/pregnancy_avoid/note。留空数组即完全使用内置知识库。",
+  "herbs": []
+}
